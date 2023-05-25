@@ -25,3 +25,7 @@ public:
 	void hapus();
 	void searchData();
 };
+
+void DoubleLinkedList::addNode() {
+	START = NULL;
+}
